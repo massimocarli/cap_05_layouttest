@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">LayoutTest</string>
+  <string name="button_0">Button #0</string>
+  <string name="button_1">Button #1</string>
+  <string name="button_2">Button #2</string>
+
+  <string name="username_label">Username</string>
+  <string name="password_label">Password</string>
+  <string name="username_hint">Insert Username</string>
+  <string name="password_hint">Insert Password</string>
+
+  <string name="to_blue_button">To Blue</string>
+  <string name="to_green_button">To Green</string>
+</resources>
